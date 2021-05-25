@@ -12,3 +12,5 @@
 * [Functions](funcpy.md)
 * [Class](classpy.md)
 * [Files & Exceptions](fepy.md)
+
+  [Go Back](index.md)
