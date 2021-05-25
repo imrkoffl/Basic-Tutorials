@@ -6,6 +6,7 @@ To write hello world using python
 
 `print('hello')`
 
+
 [Go Back](python.md)
 
-[Home](index.md)
+[Go Home](index.md)
