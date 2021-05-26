@@ -10,4 +10,3 @@ Tutorials :
 
 * [Python](python.md)
 
-[Go Back](index.md)
